@@ -39,6 +39,31 @@ b.Add the nopasswd author to netease-cloud-music  (eg.username is zeromov)
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/NETEASE3.PNG)  
 c.use ctrl+X save   then  Y  then  enter
 
+## 5. install oh my zsh
+a. check if installed zsh  
+`zsh --version`  
+b. install zsh  
+`sudo apt-get install zsh`  
+c. install wget  
+`sudo apt-get install zsh`  
+d. check current bash  
+`echo $SHELL/bin/bash`  
+e.install oh-my-bash  
+`$ wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh`  
+f.change bash to zsh：  
+`$ chsh -s /bin/zsh`  
+g.reboot：  
+`$ sudo reboot`  
+h. use the random theme  
+`gedit ~/.zshrc`  
+`ZSH_THEME="random"`  
+`ZSH_THEME_RANDOM_CANDIDATES = ( "fino" "ys")`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/ZSH.PNG) 
+
+
+
+*current soft*:Chrome,Oh my zsh,vscode,netease cloud music
+
 
 
 
