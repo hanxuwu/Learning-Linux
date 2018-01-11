@@ -24,15 +24,19 @@ Laptop : DELL XPS15 9560 4K
 
 a. Open the start configuration file  
 `sudo gedit /usr/share/applications/netease-cloud-music.desktop`  
-b.Add sudo and force scale factor to 2.5  
-`sudo netease-cloud-music --force-device-scale-factor=2.5 --no-sandbox %U`
 
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/NETEASE1.PNG)  
+b.Add sudo and force scale factor to 2.5  
+`sudo netease-cloud-music --force-device-scale-factor=2.5 --no-sandbox %U`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/NETEASE2.PNG)  
 ## 4. Click the Netease-cloud-music icon it doesn't start,becasue it has no sudo authority
 
 a.Open the sudo authority file (you have to use visudo commend otherwize it doesn't work)   
 `sudo visudo -f /etc/sudoers`  
-b.Add the nopasswd author to netease-cloud-music  (eg.username is zeromov)
+b.Add the nopasswd author to netease-cloud-music  (eg.username is zeromov)  
 `zeromov ALL=NOPASSWD:/usr/bin/netease-cloud-music`  
+
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/NETEASE3.PNG)  
 c.use ctrl+X save   then  Y  then  enter
 
 
