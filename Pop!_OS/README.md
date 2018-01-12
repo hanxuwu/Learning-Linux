@@ -60,9 +60,35 @@ h. use the random theme
 `ZSH_THEME_RANDOM_CANDIDATES = ( "fino" "ys")`  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/ZSH.PNG) 
 
+## 6. Sougo pinyin input panel too small  
+set the font size  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/SOUGO.PNG) 
+
+## 7. Install Incremental completion on zsh  
+a. create folder in plugins  
+`cd .oh-my-zsh/plugins`  
+`sudo mkdir incr`  
+b. create newfile  
+`cd incr`  
+`sudo gedit incr-0.2.zsh`  
+c. copy the content incr-0.2.zsh download from mimosa-pudica.net/zsh-incremental.html  
+d.add the configutation  
+`gedit ~/.zshrc`  
+`source ~/.oh-my-zsh/plugins/incr/incr*.zsh`  
+
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/ZSH1.PNG) 
 
 
-*current soft*:Chrome,Oh my zsh,vscode,netease cloud music
+
+
+
+
+
+
+
+
+
+*current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr
 
 
 
