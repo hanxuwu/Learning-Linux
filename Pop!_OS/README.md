@@ -78,6 +78,34 @@ d.add the configutation
 
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/ZSH1.PNG) 
 
+13/1/2018
+## 8. Install Wechat  
+a.Snap makes it easier to install WeChat unofficial client  
+`sudo apt install snapd snapd-xdg-open`  
+b.install it  
+`sudo snap install electronic-wechat`   
+c.Launch it  
+`electronic-chat` 
+
+## 9. Install Guake  
+a.Install Guake  
+`sudo apt-get install guake`  
+b.Add it to start application  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/GUAKE.PNG)  
+c. Press F12  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/GUAKE2.PNG) 
+
+
+## 10.Write shell to startup and set the reslolution  
+a.create a sh  
+`touch setresolution.sh`  
+b.Add commend
+
+`#!/bin/bash` ` 
+xrandr --output Virtual1 --scale 0.5x0.5 && gsettings set` `org.gnome.desktop.interface scaling-factor 2 &&` `xrandr --output Virtual1 --scale 1.0x1.0`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/RES.PNG)  
+c.Add it to start application(have no idea why it should be execute twice)  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/RES2.PNG) 
 
 
 
@@ -88,7 +116,17 @@ d.add the configutation
 
 
 
-*current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr
+
+
+
+
+
+
+
+
+
+
+*Current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr,wechat,guake
 
 
 
