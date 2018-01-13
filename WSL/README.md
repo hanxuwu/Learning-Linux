@@ -58,6 +58,21 @@ c. compile
 `gcc test.c -o test`  
 d. execute  
 `./test`  
-![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/TESTGCC.PNG)
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/TESTGCC.PNG)  
+
+## 7. use #POP!_OS#7  Install Incremental completion on zsh 
+
+a.intall the FUCK  
+`sudo apt update`  
+`sudo apt install python3-dev python3-pip`  
+`sudo pip3 install thefuck`    
+b.config zshrc  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/THEFUCK.PNG)   
+c.add eval  
+`eval "$(thefuck --alias)"`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/THEFUCK2.PNG)  
+d. it works  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/THEFUCK3.PNG)
+
 
 
