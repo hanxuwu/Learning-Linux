@@ -107,6 +107,9 @@ xrandr --output Virtual1 --scale 0.5x0.5 && gsettings set` `org.gnome.desktop.in
 c.Add it to start application(have no idea why it should be execute twice)  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/RES2.PNG) 
 
+## 11.if the resolution is wrong use terminal to try different solution you could change the 0 to any number that the resolutions you have  
+
+`xrandr -s 0`
 
 
 

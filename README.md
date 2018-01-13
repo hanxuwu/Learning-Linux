@@ -10,3 +10,8 @@
 
 
 ## 4. Click the Netease-cloud-music icon it doesn't start,becasue it has no sudo authority  
+
+
+13/1/2018
+
+* add elementary os
