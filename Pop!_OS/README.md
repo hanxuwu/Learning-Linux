@@ -131,6 +131,13 @@ a.intall the FUCK
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/FUCK.PNG)   
 
 
+## 14. install gimp click the icon doesn't work  
+a.change direction  
+`cd /usr/share/applications`  
+`sudo gedit gimp.desktop`  
+b. change exec  
+`Exec=gimp %U`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/GIMP.PNG)  
 
 
 
