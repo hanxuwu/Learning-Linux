@@ -15,3 +15,5 @@
 13/1/2018
 
 * add elementary os
+
+* add WSL
