@@ -74,5 +74,7 @@ c.add eval
 d. it works  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/THEFUCK3.PNG)
 
-
+## 8. vscode with ubuntu bash  
+ ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/VSCODEBASH.PNG)  
+ ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/VSUBUNTU.PNG)
 
