@@ -35,3 +35,17 @@ f. use the random THEME
 `ZSH_THEME_RANDOM_CANDIDATES=( "fino" "ys" "juanghurtado" "junkfood" "mira" "jtriley" )`  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/OHMYZSH.PNG)  
 
+## 5. install hyper 
+a.install Hyper  
+https://hyper.is/  
+b.preview the theme   
+https://hyperthemes.matthi.coffee/  
+c.modify the preference  
+`plugins: ["hyper-snazzy"],`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/HYPER.PNG)  
+d.use bash open WSL  
+`bash`  
+
+
+
+
