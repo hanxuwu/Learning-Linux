@@ -45,7 +45,19 @@ c.modify the preference
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/HYPER.PNG)  
 d.use bash open WSL  
 `bash`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/HYPERINSTALL.PNG)    
 
+## 6. Test to run c program  
 
+a. Install develpe tool  
+`sudo apt install build-essential `  
+b. create c file  
+`touch test.c`  
+`vi test.c`  
+c. compile  
+`gcc test.c -o test`  
+d. execute  
+`./test`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/TESTGCC.PNG)
 
 
