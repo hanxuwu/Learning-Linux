@@ -122,6 +122,15 @@ c.install typora
 `sudo apt-get install typora`  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/TYPORA.PNG) 
 
+## 13. install nvbn/theFUCK corrects your previous console command  
+
+a.intall the FUCK  
+`sudo apt update`  
+`sudo apt install python3-dev python3-pip`  
+`sudo pip3 install thefuck`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/FUCK.PNG)   
+
+
 
 
 
