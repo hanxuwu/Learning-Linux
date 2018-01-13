@@ -109,7 +109,18 @@ c.Add it to start application(have no idea why it should be execute twice)
 
 ## 11.if the resolution is wrong use terminal to try different solution you could change the 0 to any number that the resolutions you have  
 
-`xrandr -s 0`
+`xrandr -s 0`  
+
+## 12. install Markdown software Typora   
+
+a.optional, but recommended  
+`sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE`  
+b.add Typora's repository  
+`sudo add-apt-repository 'deb http://typora.io linux/'`  
+`sudo apt-get update`   
+c.install typora  
+`sudo apt-get install typora`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/TYPORA.PNG) 
 
 
 
@@ -129,7 +140,7 @@ c.Add it to start application(have no idea why it should be execute twice)
 
 
 
-*Current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr,wechat,guake
+*Current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr,wechat,guake,typora
 
 
 
