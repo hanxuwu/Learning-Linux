@@ -151,6 +151,11 @@ b. change exec
 `mtr`  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/MTR.PNG)  
 
+## 18. view the folder tree  
+`sudo apt-get install tree`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/TREE.PNG)   
+
+
 
 
 
