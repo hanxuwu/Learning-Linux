@@ -156,8 +156,12 @@ b. change exec
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/TREE.PNG)   
 
 
+## 19 Update Error - Too few items to process  
 
-
+a. not use the typora source   
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/UGRADEERROR.PNG)   
+b. use the prerelease os   
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/PRERELEASE.PNG)
 
 
 
