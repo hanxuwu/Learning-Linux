@@ -139,6 +139,21 @@ b. change exec
 `Exec=gimp %U`  
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/GIMP.PNG)  
 
+## 15.terminal Star War    
+`sudo apt-get install telnet`  
+
+`telnet towel.blinkenlights.nl`  
+
+## 16.terminal Cat  
+`sudo apt-get install oneko`  
+
+## 17. current connect state  ==ping+traceroute+nslookup  
+`mtr`  
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/MTR.PNG)  
+
+
+
+
 
 
 
