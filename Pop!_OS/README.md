@@ -161,7 +161,7 @@ b. change exec
 a. not use the typora source   
 ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/UGRADEERROR.PNG)   
 b. use the prerelease os   
-![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/PRERELEASE.PNG)
+![image](https://github.com/hanxuwu/Learning-Linux/blob/master/Pop!_OS/SCREENSHOT/PRERELEASE.PNG)  
 
 
 
@@ -182,7 +182,8 @@ b. use the prerelease os
 
 *Current soft*:Chrome,Oh my zsh,vscode,netease cloud music,fcitx Sogou,incr,wechat,guake,typora
 
-
+Forum:  https://www.reddit.com/r/pop_os/  
+Blog:  http://blog.system76.com/
 
 
 
