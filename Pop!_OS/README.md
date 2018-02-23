@@ -165,8 +165,19 @@ b. use the prerelease os
 
 
 
+## 20. Screen recording  software
+`sudo add-apt-repository ppa:peek-developers/stable`  
+`sudo apt-get update`  
+`sudo apt-get install peek`  
 
 
+## 21. Switch Graphics cards  
+a. if you could not boot after switch use the recovery mode  
+c. check the current card  
+`prime-select query`  
+b. switch  Graphics cards  
+`sudo prime-select intel`  
+`sudo prime-select nvidia`    
 
 
 
