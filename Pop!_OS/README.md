@@ -179,6 +179,18 @@ b. switch  Graphics cards
 `sudo prime-select intel`  
 `sudo prime-select nvidia`    
 
+## 22. install prolog  
+`sudo add-apt-repository ppa:swi-prolog/stable`  
+`sudo apt-get update`  
+`sudo apt-get install swi-prolog`  
+
+## 23. install wireshark  
+a. solve the lua problem  
+`cd usr/share/wireshark`  
+b. modify init.lua  
+`sudo nano init.lua`  
+c. change disable lua `true`  
+
 
 
 
