@@ -191,6 +191,45 @@ b. modify init.lua
 `sudo nano init.lua`  
 c. change disable lua `true`  
 
+## 24.Netease cloud music proxy  
+a. edit the hosts  
+`sudo nano /etc/hosts`  
+b. add the following  
+```
+
+# 网易云音乐数据传输服务器反代
+79.137.38.20 music.163.com
+
+# 归属地查询服务器反代
+79.137.38.20 ip.ws.126.net
+
+# HTTPS DNS 服务器屏蔽
+127.0.0.9 music.httpdns.c.163.com
+
+```
+
+https://jixun.moe/2017/02/24/oversea-netease-cloud-music-by-hosts/
+
+## 25. switch the version between python 3.5 and python 3.6  
+
+a.Check version  
+`$ python -V`  
+`$ python2 -V`  
+`$ python3 -V`  
+
+b. Check the alternative version  
+`$ update-alternatives --list python3`  
+
+c. Install version  
+`$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5 1`  
+`$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.6 2`  
+d. Check again  
+`$ update-alternati ves --list python3`  
+f. Config  
+`$ sudo update-alternatives --config python3`
+
+
+
 
 
 
