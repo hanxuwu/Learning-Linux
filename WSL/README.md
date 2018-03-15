@@ -78,3 +78,8 @@ d. it works
  ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/VSCODEBASH.PNG)  
  ![image](https://github.com/hanxuwu/Learning-Linux/blob/master/WSL/SCREENSHOT/VSUBUNTU.PNG)
 
+## 9. Install prolog in WSL 
+  a.  `sudo add-apt-repository ppa:swi-prolog/stable` shows that   No module named 'apt_pkg'  
+  b.  `sudo vim /usr/bin/add-apt-repository` then change the `#! /usr/bin/python3` to `! /usr/bin/python3.5`  
+  c.  the python3.6 just do not work  
+
